@@ -1,7 +1,7 @@
-## Hello World! I'm Intan Permatasari 👋
+## Hello World! I'm Siti Ingefatul Komariah 👋
 
 <!--
-**intancious/intancious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ingefatulkomariah/ingefatulkomariah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning python
+🌱 I’m currently learning python & deep learning
+👯 I’m looking to collaborate on experience
